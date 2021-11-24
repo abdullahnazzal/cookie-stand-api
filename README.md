@@ -2,6 +2,7 @@
 
 Template Project for starting up CRUD API with Django Rest Framework
 
+![PR](https://github.com/abdullahnazzal/cookie-stand-api/pull/1)
 ## Customization Steps
 
 - DO NOT migrate yet
